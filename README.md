@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SarowarSaurav
 - 👀 I’m interested in Problem Solving 
 - 🌱 I’m currently doing my undergrad majoring Computer Science 
-- 💞️ Visit my website https://sarowarjahan.me
+- 💞️ Visit my website https://sarowarsaurav.com
 - 📫 Reach me here Sarowar.saurav27@gmail.com...
 
 <!---
