@@ -33,7 +33,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./animated.gif">
   <source media="(prefers-color-scheme: light)" srcset="./animated.gif">
-  <img width=50 height=50 align="right" alt="GIF description" src="./animated.gif">
+  <img width=500 height=500 align="right" alt="GIF description" src="./animated.gif">
 </picture>
 
 <br />
@@ -105,7 +105,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/SarowarSaurav/Some-Project">
+        <a href="[https://github.com/SarowarSaurav/Some-Project](https://github.com/SarowarSaurav/metdrive)">
           <!-- Replace `Some-Project` with one of your actual repos -->
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SarowarSaurav&repo=Some-Project&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Some-Project" />
         </a>
@@ -124,11 +124,6 @@ I’m a results-driven professional with 3+ years of experience blending data sc
 
 <br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarowarSaurav&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
 
 ---
 
