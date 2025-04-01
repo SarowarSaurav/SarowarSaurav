@@ -23,11 +23,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=SarowarSaurav&label=Profile%20views%20%2B%20200&color=770677&style=for-the-badge&logo=star" 
-    alt="Profile views + 200" 
-    style="padding-right:20px;" 
-  />
+  <img src="https://komarev.com/ghpvc/?username=SarowarSaurav&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile views" style="padding-right:20px;" />
 </p>
 
 ---
@@ -37,7 +33,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./animated.gif">
   <source media="(prefers-color-scheme: light)" srcset="./animated.gif">
-  <img align="left" alt="GIF description" src="./animated.gif">
+  <img width=50 height=50 align="right" alt="GIF description" src="./animated.gif">
 </picture>
 
 <br />
