@@ -107,7 +107,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
       <p align="center">
         <a href="https://github.com/SarowarSaurav/metdrive">
           <!-- Replace `Some-Project` with one of your actual repos -->
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SarowarSaurav&repo=Some-Project&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Some-Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SarowarSaurav&repo=metdrive&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="metdrive" />
         </a>
       </p>
     </td>
@@ -150,7 +150,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
       alt="Email Icon" 
       width="40" 
       height="40" 
-      style="margin: 0 10px;"
+      style="margin: 0 100px;"
     />
   </a>
 
@@ -161,7 +161,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
       alt="Medium Icon" 
       width="40" 
       height="40" 
-      style="margin: 0 10px;" 
+      style="margin: 0 100px;" 
     />
   </a>
 
@@ -174,7 +174,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
       alt="GitHub Icon" 
       width="40" 
       height="40" 
-      style="margin: 0 10px;" 
+      style="margin: 0 100px;" 
     />
   </a>
 
@@ -185,7 +185,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
       alt="LinkedIn Icon" 
       width="40" 
       height="40" 
-      style="margin: 0 10px;"
+      style="margin: 0 100px;"
     />
   </a>
 
