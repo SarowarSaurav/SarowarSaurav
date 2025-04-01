@@ -33,7 +33,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./animated.gif">
   <source media="(prefers-color-scheme: light)" srcset="./animated.gif">
-  <img width=500 height=500 align="right" alt="GIF description" src="./animated.gif">
+  <img width=350 height=350 align="right" alt="GIF description" src="./animated.gif">
 </picture>
 
 <br />
@@ -139,51 +139,61 @@ I’m a results-driven professional with 3+ years of experience blending data sc
 ---
 
 <!--Contact Section--> 
+<!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
 
   <!-- Email -->
   <a href="mailto:sarowarjahansaurav@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="Email me!" style="margin-bottom: 5px;" />
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/646/646094.png" 
+      alt="Email Icon" 
+      width="40" 
+      height="40" 
+      style="margin-bottom: 5px;" 
+    />
   </a>
 
-  <!-- Twitter (if you have one; remove if not) -->
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
+  <!-- Twitter -->
+  <a href="https://medium.com/@sarowar.saurav10" target="_blank">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/211/2111505.png" 
+      alt="Medium Icon" 
+      width="40" 
+      height="40" 
+      style="margin-bottom: 5px;" 
+    />
   </a>
 
-  <!-- Instagram (remove if not applicable) -->
-  <a href="https://www.instagram.com/YourInstagramHandle" target="_blank">
-    <img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
-  </a>
+
 
   <!-- GitHub -->
   <a href="https://github.com/SarowarSaurav" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
+      alt="GitHub Icon" 
+      width="40" 
+      height="40" 
+      style="margin-bottom: 5px;" 
+    />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/s-jahan" target="_blank">
-    <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" 
+      alt="LinkedIn Icon" 
+      width="40" 
+      height="40" 
+      style="margin-bottom: 5px;" 
+    />
   </a>
 
-  <!-- dev.to (if you have one; remove if not) -->
-  <a href="https://dev.to/YourDevToProfile" target="_blank">
-    <img src="./dev_to.png" width=50 height=50 alt="dev.to" style="margin-bottom: 5px;" />
-  </a>
 
 </div>
+
 <br/>
 
-<!--Buy me a coffee-->
-<!-- Uncomment or replace the link if you have a donation page -->
-<!--
-<div align="center">
-  <a href="https://www.buymeacoffee.com/YOUR-USERNAME" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" >
-  </a>
-</div>
--->
 
 <!--Footer--> 
 <p align="center">
