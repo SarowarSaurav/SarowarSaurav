@@ -146,7 +146,7 @@ I’m a results-driven professional with 3+ years of experience blending data sc
   <!-- Email -->
   <a href="mailto:sarowarjahansaurav@gmail.com" target="_blank">
     <img 
-      src="https://cdn-icons-png.flaticon.com/512/646/646094.png" 
+      src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
       alt="Email Icon" 
       width="40" 
       height="40" 
@@ -156,8 +156,8 @@ I’m a results-driven professional with 3+ years of experience blending data sc
 
   <!-- Twitter -->
   <a href="https://medium.com/@sarowar.saurav10" target="_blank">
-    <img 
-      src="https://cdn-icons-png.flaticon.com/512/211/2111505.png" 
+     <img 
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" 
       alt="Medium Icon" 
       width="40" 
       height="40" 
